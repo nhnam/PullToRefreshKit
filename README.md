@@ -47,7 +47,7 @@
 ## Require
 
 - iOS 8
-- Swift 2
+- Swift 2.3
 
 ##Support
 
@@ -63,11 +63,10 @@ UITableView/UICollectionView/UIScrollView/UIWebView
 
 ## Install
 
-CocoaPod
+Swift 2.3 Does not support Cocoapod,and it is not mantained any more.
 
-```
-pod "PullToRefreshKit"
-```
+If you want to use it, download the project,and drag and drop all files in Source folder
+
 ## Useage
 
 ###Pull down to refresh
