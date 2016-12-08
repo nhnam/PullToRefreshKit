@@ -69,6 +69,12 @@ CocoaPod
 ```
 pod "PullToRefreshKit"
 ```
+Carthage
+
+```
+github "nhnam/PullToRefreshKit"
+```
+
 ## Useage
 
 ###Pull down to refresh
